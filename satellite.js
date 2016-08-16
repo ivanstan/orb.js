@@ -441,4 +441,4 @@ Orb.Satellite = Orb.Satellite || function(tle){
   } //end return Orb.Satellite.
 }
 
-}(this))
+}(this));
